@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Products per Page\n"
+"POT-Creation-Date: 2013-09-09 12:41+0100\n"
+"PO-Revision-Date: 2013-09-09 12:41+0100\n"
+"Last-Translator: Paul van der Meijs <info@lowtone.nl>\n"
+"Language-Team: Lowtone <info@lowtone.nl>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../lowtone-woocommerce-products_per_page.php:82
+msgid "Products per page"
+msgstr "Producten per pagina"
+
+#: ../../lowtone-woocommerce-products_per_page.php:86
+#, php-format
+msgid "%s per page"
+msgstr "%s per pagina"

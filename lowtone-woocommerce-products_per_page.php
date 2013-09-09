@@ -61,6 +61,12 @@ namespace lowtone\woocommerce\products_per_page {
 		return $number;
 	}, 9999);
 
+	// Register textdomain
+	
+	add_action("plugins_loaded", function() {
+		load_plugin_textdomain("lowtone_woocommerce_products_per_page", false, basename(__DIR__) . "/assets/languages");
+	});
+
 	// Functions
 	
 	function att() {
